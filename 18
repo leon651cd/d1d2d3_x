@@ -1,0 +1,33 @@
+0  0   1638
+test time: 0
+max_test: precision = 0.925558 | Recall = 0.925558 | F1 = 0.925558 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000
+
+new
+
+1  0   60
+test time: 0
+max_test: precision = 0.129032 | Recall = 0.129032 | F1 = 0.129032 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+2  0   60
+test time: 0
+max_test: precision = 0.124069 | Recall = 0.124069 | F1 = 0.124069 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+3  0   60
+test time: 0
+max_test: precision = 0.702233 | Recall = 0.702233 | F1 = 0.702233 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+4  0   60
+test time: 0
+max_test: precision = 0.782178 | Recall = 0.784119 | F1 = 0.783147 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+5  0   60
+test time: 0
+max_test: precision = 0.846535 | Recall = 0.848635 | F1 = 0.847584 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 

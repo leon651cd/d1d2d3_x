@@ -1,0 +1,58 @@
+
+0  0   1638
+test time: 0
+max_test: precision = 0.921640 | Recall = 0.921640 | F1 = 0.921640 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+1  0   1638
+test time: 0
+max_test: precision = 0.881911 | Recall = 0.881911 | F1 = 0.881911 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+2  0   1638
+test time: 0
+max_test: precision = 0.880630 | Recall = 0.880630 | F1 = 0.880630 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+3  0   1638
+test time: 0
+max_test: precision = 0.718881 | Recall = 0.720066 | F1 = 0.719473 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+4  0   1638
+test time: 0
+max_test: precision = 0.829023 | Recall = 0.830465 | F1 = 0.829743 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000 
+5  0   1638
+test time: 0
+max_test: precision = 0.761735 | Recall = 0.763548 | F1 = 0.762641 
+train time: 0
+max_train: precision = 0.000000 | Recall = 0.000000 | F1 = 0.000000
+
+16：51
+<function run at 0x7f51d8d157b8>  0   1639
+test time: 0
+max_d1d2d3: precision = 0.889692 | Recall = 0.889692 | F1 = 0.889692 
+train time: 0
+max_d1d2: precision = 0.925211 | Recall = 0.925211 | F1 = 0.925211 
+<function run at 0x7f51d8d157b8>  0   1639
+test time: 0
+max_d1d2d3: precision = 0.823233 | Recall = 0.823233 | F1 = 0.823233 
+train time: 0
+max_d1d2: precision = 0.823508 | Recall = 0.823508 | F1 = 0.823508 
+<function run at 0x7f51d8d157b8>  0   1639
+test time: 0
+max_d1d2d3: precision = 0.788244 | Recall = 0.790553 | F1 = 0.789397 
+train time: 0
+max_d1d2: precision = 0.786958 | Recall = 0.794306 | F1 = 0.790615 
+<function run at 0x7f51d8d157b8>  0   1639
+test time: 0
+max_d1d2d3: precision = 0.860491 | Recall = 0.860491 | F1 = 0.860491 
+train time: 0
+max_d1d2: precision = 0.860686 | Recall = 0.860765 | F1 = 0.860726 
+<function run at 0x7f51d8d157b8>  0   1639
+test time: 0
+max_d1d2d3: precision = 0.888869 | Recall = 0.888869 | F1 = 0.888869 
+train time: 0
+max_d1d2: precision = 0.888869 | Recall = 0.888869 | F1 = 0.888869 
